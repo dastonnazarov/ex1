@@ -15,6 +15,10 @@ public class StudentBook {
         return sId;
     }
 
+    public Integer getsId1() {
+        return sId;
+    }
+
     public void setsId(Integer sId) {
         this.sId = sId;
     }
